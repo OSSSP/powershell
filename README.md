@@ -9,7 +9,7 @@ Here is two scripts that will help a bit post-exploitation.
 - scanpass, will scan for passwords in cleartext files, and report back for files with specific filenames.
 
 Obviously it's typical that these scripts require the following
-Set-ExecutionPolicy unrestricted
+- **Set-ExecutionPolicy unrestricted**
 
 If you have suggestions for file extensions or any other things don't hesitate.
 
